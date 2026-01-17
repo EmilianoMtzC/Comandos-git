@@ -1,8 +1,8 @@
-¡Qué detalle tan lindo! Aquí tienes el contenido de tu archivo `.txt` convertido a un formato **Markdown** elegante y bien organizado, ideal para que se vea súper claro en cualquier lector de notas o en GitHub.
+# Atención esto fue hecho para mi novia jajajajaja, no critiquen.
 
 ---
 
-# ¡Hola!
+# ¡Hola !
 
 Aquí te dejo los comandos que estarás utilizando para **Git**. Trata de aprendértelos, ¡te amo!
 
@@ -12,11 +12,11 @@ Aquí te dejo los comandos que estarás utilizando para **Git**. Trata de aprend
 
 *(Esto normalmente lo utilizarás cuando configures una nueva compu)*
 
-* **0.1. `git config --global user.name "tu-nombre"`
+* **0.1. `git config --global user.name "tu-nombre-miamor"`
 * **USO:** Se utiliza una vez para configurar tu nombre de usuario de Git (es obligatorio).
 
 
-* **0.2. `git config --global user.email "tu-email"`
+* **0.2. `git config --global user.email "tu-email-miamor"`
 * **USO:** Al igual que el anterior, pero con tu correo electrónico.
 
 
