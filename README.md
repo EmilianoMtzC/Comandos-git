@@ -85,4 +85,3 @@ Normalmente, cuando empiezas desde cero un repositorio, no tienes un respaldo en
 
 ---
 
-¿Te gustaría que te explique qué hace algún otro comando o que te ayude a crear una "guía rápida" de bolsillo?
