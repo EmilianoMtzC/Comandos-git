@@ -2,7 +2,7 @@
 
 ---
 
-# ¡Hola !
+# ¡Hola mi amor!
 
 Aquí te dejo los comandos que estarás utilizando para **Git**. Trata de aprendértelos, ¡te amo!
 
