@@ -12,11 +12,11 @@ Aquí te dejo los comandos que estarás utilizando para **Git**. Trata de aprend
 
 *(Esto normalmente lo utilizarás cuando configures una nueva compu)*
 
-* **0.1. `git config --global user.name "tu-nombre-preciosa"**`
+* **0.1. `git config --global user.name "tu-nombre"`
 * **USO:** Se utiliza una vez para configurar tu nombre de usuario de Git (es obligatorio).
 
 
-* **0.2. `git config --global user.email "tu-email-mi-nena"**`
+* **0.2. `git config --global user.email "tu-email"`
 * **USO:** Al igual que el anterior, pero con tu correo electrónico.
 
 
