@@ -30,7 +30,7 @@ Aquí te dejo los comandos que estarás utilizando para **Git**. Trata de aprend
 > **P.D.** Tienes que irte a la carpeta del proyecto primero.
 > *Ejemplo:* `cd Documentos/carpeta-de-miamorito/`
 
-* **1. `git init**`
+* **1. `git init`
 * **USO:** Inicializa un repositorio local (todavía no está en GitHub).
 
 
@@ -61,11 +61,11 @@ Aquí te dejo los comandos que estarás utilizando para **Git**. Trata de aprend
 
 Normalmente, cuando empiezas desde cero un repositorio, no tienes un respaldo en GitHub. Primero ve a [github.com](https://github.com) y crea un repositorio con el nombre que quieras. Después, ingresa estos comandos:
 
-* **3.1. `git remote add origin https://github.com/TU-USUARIO/TU-REPO.git**`
+* **3.1. `git remote add origin https://github.com/TU-USUARIO/TU-REPO.git`
 * **USO:** Conecta tu carpeta local con el repositorio en la nube (GitHub).
 
 
-* **3.2. `git branch -M main**`
+* **3.2. `git branch -M main`
 * **USO:** Comando necesario para establecer "main" como el nombre de tu rama principal.
 
 
@@ -74,11 +74,11 @@ Normalmente, cuando empiezas desde cero un repositorio, no tienes un respaldo en
 
 ## ✅ PARA FINALIZAR
 
-* **4. `git push -u origin main**`
+* **4. `git push -u origin main`
 * **USO:** Sube todos tus cambios. **SOLO SE HACE 1 VEZ**. El `-u origin main` configura la ruta por defecto para que no tengas que escribir tanto después.
 
 
-* **4.1. `git push**`
+* **4.1. `git push`
 * **USO:** Después de haber hecho el paso anterior una vez, de ahora en adelante solo tendrás que escribir esto para subir tus cambios.
 
 
